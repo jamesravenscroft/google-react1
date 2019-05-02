@@ -4,7 +4,7 @@ import "./style.css";
 const Footer = () => {
   return (
     <footer className="footer navbar-fixed-bottom has-background-tan text-center heading-subtitle">
-      Made with React
+     Don't over React
     </footer>
   );
 };
